@@ -7,11 +7,17 @@ Here is the link to our final report colab:
 ## Intrdouction
 A museum can contain artworks dating back to more than hundred years ago from over thousands of creators. With the large amount of image data on hand, we can build machine learning models that enable us to accomplish a variety of goals. Some examples include finding trends in artworks throughout the history, instant art image recognition, and artwork generation, etc., all of which are our motivations for pursuing this problem. And we majorly focus on the classification problem and furthermore, multitasking classification.
 
-Our Artwork Recognition project focuses on all kinds of museum artwork image classification. It mainly contains two parts: single-task classification and multitasking classification.
+Our Artwork Recognition project focuses on all kinds of museum artwork image classification. It mainly contains two parts: single-task classification and multitasking classification. We want make better classication model than baseline on single-task classification. Then We according to strong information correlation, do the multitasking classification and outperform than KKN method, which is considered as baseline.
 
-We want to achieve the functions that find out what kind of artwork is on the image, what detail we can found on the image, and transfer the artwork image into other artwork styles. We believe this is very applicable for museum visitors to get to know the artworks more efficiently.
+## Single-task Image Classification
+Under Images_Classification folders
+ML_label_create.ipynb is a file that is selected for label when running on google drive.
+ML-create-image.ipynb is run locally How to filter image files for label-create files
+ML_fp_v3.ipynb is the main file of train
 
-## Image Classification
+You can visualize your result from our colab notebook. The data for image classification can be downloaded from ./datas
+
+## Multi-task Image Classification
 Under Images_Classification folders
 ML_label_create.ipynb is a file that is selected for label when running on google drive.
 ML-create-image.ipynb is run locally How to filter image files for label-create files
