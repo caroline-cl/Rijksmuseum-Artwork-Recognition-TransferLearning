@@ -1,7 +1,7 @@
 # Artwork Recognition-JHU601.675
 
-It's a template from previous github and we can modify later
 
+Here is the link to our final report colab:
 **[Colab](https://colab.research.google.com/drive/1aiCmiGC7pgI-zHdeYGDP-HsO1pCe2c57)**
 
 ## Intrdouction
