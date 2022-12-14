@@ -10,38 +10,16 @@ A museum can contain artworks dating back to more than hundred years ago from ov
 Our Artwork Recognition project focuses on all kinds of museum artwork image classification. It mainly contains two parts: single-task classification and multitasking classification. We want make better classication model than baseline on single-task classification. Then We according to strong information correlation, do the multitasking classification and outperform than KKN method, which is considered as baseline.
 
 ## Single-task Image Classification
-Under Images_Classification folders
-ML_label_create.ipynb is a file that is selected for label when running on google drive.
-ML-create-image.ipynb is run locally How to filter image files for label-create files
-ML_fp_v3.ipynb is the main file of train
+There are 3 different single-task classification: type, material and creator. Each of them has a image selection jupyter notebook file and also a classification jupyter notebook file. 
 
-You can visualize your result from our colab notebook. The data for image classification can be downloaded from ./datas
+### Image Selection process
 
-
-### Usage
-Python object_detection.py -input_file your_image_file -box_info
-
-The -input_file ask user to provide the images path.
-The -box_info command can provide you with the coordinates of bounding box in images.
-
-Also user can use evaluation.ipynb to evaluate their result. 
+### classification model training
 
 
 
 ## Multi-task Image Classification
-Under Images_Classification folders
-ML_label_create.ipynb is a file that is selected for label when running on google drive.
-ML-create-image.ipynb is run locally How to filter image files for label-create files
-ML_fp_v3.ipynb is the main file of train
+Similarly, there will be image selection process as well as a model training fil.
+### Image Selection process
 
-You can visualize your result from our colab notebook. The data for image classification can be downloaded from ./datas
-
-### Usage
-Python object_detection.py -input_file your_image_file -box_info
-
-The -input_file ask user to provide the images path.
-The -box_info command can provide you with the coordinates of bounding box in images.
-
-Also user can use evaluation.ipynb to evaluate their result. 
-
-
+### classification model training
