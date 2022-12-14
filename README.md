@@ -5,7 +5,9 @@ Here is the link to our final report colab:
 **[Colab](https://colab.research.google.com/drive/1aiCmiGC7pgI-zHdeYGDP-HsO1pCe2c57)**
 
 ## Intrdouction
-Our Artwork Recognition and Style Transfer project focus on museum artwork image detection and style transfer. It mainly contains three parts, the image classification, object detection, and style transfer.
+A museum can contain artworks dating back to more than hundred years ago from over thousands of creators. With the large amount of image data on hand, we can build machine learning models that enable us to accomplish a variety of goals. Some examples include finding trends in artworks throughout the history, instant art image recognition, and artwork generation, etc., all of which are our motivations for pursuing this problem. And we majorly focus on the classification problem and furthermore, multitasking classification.
+
+Our Artwork Recognition project focuses on all kinds of museum artwork image classification. It mainly contains two parts: single-task classification and multitasking classification.
 
 We want to achieve the functions that find out what kind of artwork is on the image, what detail we can found on the image, and transfer the artwork image into other artwork styles. We believe this is very applicable for museum visitors to get to know the artworks more efficiently.
 
