@@ -1,11 +1,11 @@
 # Artwork_Recognition_JHU_601_675
 
-
+It's a template from previous github and we can modify later
 
 **[Colab](https://colab.research.google.com/drive/1aiCmiGC7pgI-zHdeYGDP-HsO1pCe2c57)**
 
 ## Intrdouction
-Our Artwork Detection and Style Transfer project focus on museum artwork image detection and style transfer. It mainly contains three parts, the image classification, object detection, and style transfer.
+Our Artwork Recognition and Style Transfer project focus on museum artwork image detection and style transfer. It mainly contains three parts, the image classification, object detection, and style transfer.
 
 We want to achieve the functions that find out what kind of artwork is on the image, what detail we can found on the image, and transfer the artwork image into other artwork styles. We believe this is very applicable for museum visitors to get to know the artworks more efficiently.
 
