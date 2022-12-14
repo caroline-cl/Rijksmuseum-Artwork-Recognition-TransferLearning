@@ -1,4 +1,4 @@
-# Artwork-Recognition-JHU-601.675
+# Artwork Recognition-JHU601.675
 
 It's a template from previous github and we can modify later
 
