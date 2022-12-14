@@ -17,6 +17,14 @@ ML_fp_v3.ipynb is the main file of train
 
 You can visualize your result from our colab notebook. The data for image classification can be downloaded from ./datas
 
+
+### Usage
+Python object_detection.py -input_file your_image_file -box_info
+
+The -input_file ask user to provide the images path.
+The -box_info command can provide you with the coordinates of bounding box in images.
+
+Also user can use evaluation.ipynb to evaluate their result. 
 ## Multi-task Image Classification
 Under Images_Classification folders
 ML_label_create.ipynb is a file that is selected for label when running on google drive.
@@ -24,6 +32,14 @@ ML-create-image.ipynb is run locally How to filter image files for label-create 
 ML_fp_v3.ipynb is the main file of train
 
 You can visualize your result from our colab notebook. The data for image classification can be downloaded from ./datas
+
+### Usage
+Python object_detection.py -input_file your_image_file -box_info
+
+The -input_file ask user to provide the images path.
+The -box_info command can provide you with the coordinates of bounding box in images.
+
+Also user can use evaluation.ipynb to evaluate their result. 
 
 ## Object Detection
 The object detection will give the image with the highlighted box as output which will save as the same path as the input images. The following is an example of the input and the output. 
