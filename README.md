@@ -13,14 +13,27 @@ Our Artwork Recognition project focuses on all kinds of museum artwork image cla
 There are 3 different single-task classification: type, material and creator. Each task uses specific training images and training model is in different ipynb file.
 
 ### Type classification
-#### Training images are in the data2022/type. In this file, the images for train, test and evaluation are separated in 3 files.
+#### Training images 
+Images are saved in Directory:ML_FP_2022/data2022/type
+Over 900 training images are in the file 'image_total'. 70 test images are in 'new_test'. 15 evaluation images are in 'evaluate_image'.
 #### Training Model file: 
+Directory:ML_FP_2022/image_classification/ [最终文件]
+The models are saved in ML_FP_2022/models/type
 
 ### Material classification
+#### Training images 
+Images are saved in Directory:ML_FP_2022/data2022/material
+#### Training Model file: 
+Directory:ML_FP_2022/image_classification/ [最终文件]
+The models are saved in ML_FP_2022/models/type
 
-
-### Material classification
-
+### Creator classification
+#### Training images 
+Images are saved in Directory:ML_FP_2022/data2022/creator
+Labels of the images are also saved in this directory
+#### Training Model file: 
+Directory:ML_FP_2022/image_classification/ [最终文件]
+The models are saved in ML_FP_2022/models/type
 
 ## Multi-task Image Classification
 Similarly, there will be image selection process as well as a model training fil.
