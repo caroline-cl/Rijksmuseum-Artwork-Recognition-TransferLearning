@@ -1,5 +1,6 @@
 import seaborn as sns
 from sklearn.metrics import confusion_matrix,f1_score,recall_score,precision_score,balanced_accuracy_score
+from sklearn.metrics import plot_confusion_matrix,f1_score, accuracy_score, average_precision_score
 
 def eval_all(predict_list, truth_label):
     #creator
