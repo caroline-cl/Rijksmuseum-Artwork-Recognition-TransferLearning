@@ -13,6 +13,7 @@ Our Artwork Recognition project focuses on all kinds of museum artwork image cla
 There are 3 different single-task classification: type, material and creator. Each task uses specific training images and training model is in different ipynb file saved in google drive.
 
 ### Type classification
+Classify the type of artworks according to images of artworks.
 #### Training images 
 Images are saved in Directory:Google Drive:ML_FP_2022/data2022/type
 
@@ -23,6 +24,7 @@ Directory:Google Drive:ML_FP_2022/image_classification/ML_fp_type_v2.ipynb
 So just run the 'ML_fp_type_v2.ipynb' file and the models are saved in ML_FP_2022/models/type
 
 ### Material classification
+Classify the material of artworks according to images of artworks.
 #### Training images 
 Images are saved in Directory:Google Drive:ML_FP_2022/data2022/material
 #### Training Model file: 
@@ -31,6 +33,7 @@ Directory:Google Drive:ML_FP_2022/image_classification/ML_fp_material_v2.ipynb
 So just run the 'ML_fp_material_v2.ipynb' file and the models are saved in ML_FP_2022/models/type
 
 ### Creator classification
+Classify the creator of artworks according to images of artworks.
 #### Training images 
 Images are saved in Directory:Google Drive:ML_FP_2022/data2022/creator
 
