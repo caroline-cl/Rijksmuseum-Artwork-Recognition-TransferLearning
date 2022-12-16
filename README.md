@@ -15,7 +15,9 @@ There are 3 different single-task classification: type, material and creator. Ea
 ### Type classification
 #### Training images 
 Images are saved in Directory:Google Drive:ML_FP_2022/data2022/type
+
 Over 900 training images are in the file 'image_total'. 70 test images are in 'new_test'. 15 evaluation images are in 'evaluate_image'.
+
 #### Training Model file: 
 Directory:Google Drive:ML_FP_2022/image_classification/ [最终文件]
 
