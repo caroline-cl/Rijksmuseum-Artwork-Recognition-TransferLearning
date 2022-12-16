@@ -10,7 +10,7 @@ A museum can contain artworks dating back to more than hundred years ago from ov
 Our Artwork Recognition project focuses on all kinds of museum artwork image classification. It mainly contains two parts: single-task classification and multitasking classification. We want make better classication model than baseline on single-task classification. Then We according to strong information correlation, do the multitasking classification and outperform than KKN method, which is considered as baseline.
 
 ## Single-task Image Classification
-There are 3 different single-task classification: type, material and creator. Each of them has a image selection jupyter notebook file and also a classification jupyter notebook file. 
+There are 3 different single-task classification: type, material and creator. Each of them has a image selection jupyter notebook file as well as a classification jupyter notebook file. 
 
 ### Image Selection process
 
