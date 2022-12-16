@@ -45,6 +45,12 @@ So just run the 'ML_fp_creator_v2.ipynb' file and the models are saved in Google
 
 ## Multi-task Image Classification
 Similarly, there will be image selection process as well as a model training file.
-### Image Selection process
+### Training images 
+Images are saved in Directory:Google Drive:ML_FP_2022/data2022/multi-task
 
-### classification model training
+Labels of the images are also saved in this directory
+### Training Model file: 
+Directory:Google Drive:ML_FP_2022/image_classification/CL_ML_fp_MTL_HydraNet.ipynb
+
+So just run the 'CL_ML_fp_MTL_HydraNet.ipynb' file and the models are saved in Google Drive:ML_FP_2022/models/type
+
