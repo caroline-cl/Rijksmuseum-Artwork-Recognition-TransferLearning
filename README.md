@@ -3,6 +3,8 @@
 
 Here is the link to our final report colab:
 **[Colab](https://colab.research.google.com/drive/1aiCmiGC7pgI-zHdeYGDP-HsO1pCe2c57)**
+Here is the link to our Google Drive:
+**[GoogleDrive](https://drive.google.com/drive/folders/1Xhwar5cj1hoIX1ZtUu4GIYaPtt70c9rv?usp=sharing)**
 
 ## Intrdouction
 A museum can contain artworks dating back to more than hundred years ago from over thousands of creators. With the large amount of image data on hand, we can build machine learning models that enable us to accomplish a variety of goals. Some examples include finding trends in artworks throughout the history, instant art image recognition, and artwork generation, etc., all of which are our motivations for pursuing this problem. And we majorly focus on the classification problem and furthermore, multitasking classification.
