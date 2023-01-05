@@ -1,4 +1,4 @@
-# Artwork Recognition-JHU601.675
+# Rijksmuseum Artwork Recognition
 
 
 Here is the link to our final report colab:
@@ -24,7 +24,7 @@ Over 900 training images are in the file 'image_total'. 70 test images are in 'n
 #### Training Model file: 
 Directory:Google Drive:ML_FP_2022/image_classification/ML_fp_type_v2.ipynb
 
-So just run the 'ML_fp_type_v2.ipynb' file and the models are saved in ML_FP_2022/models/type
+Run the 'ML_fp_type_v2.ipynb' file and the models are saved in ML_FP_2022/models/type
 
 ### Material classification
 Classify the material of artworks according to images of artworks.
@@ -33,7 +33,7 @@ Images are saved in Directory:Google Drive:ML_FP_2022/data2022/material
 #### Training Model file: 
 Directory:Google Drive:ML_FP_2022/image_classification/ML_fp_material_v2.ipynb
 
-So just run the 'ML_fp_material_v2.ipynb' file and the models are saved in ML_FP_2022/models/type
+Run the 'ML_fp_material_v2.ipynb' file and the models are saved in ML_FP_2022/models/type
 
 ### Creator classification
 Classify the creator of artworks according to images of artworks.
@@ -44,7 +44,7 @@ Labels of the images are also saved in this directory
 #### Training Model file: 
 Directory:Google Drive:ML_FP_2022/image_classification/ML_fp_creator_v2.ipynb
 
-So just run the 'ML_fp_creator_v2.ipynb' file and the models are saved in Google Drive:ML_FP_2022/models/type
+Run the 'ML_fp_creator_v2.ipynb' file and the models are saved in Google Drive:ML_FP_2022/models/type
 
 ## Multi-task Image Classification
 Similarly, there will be image selection process as well as a model training file.
@@ -55,5 +55,5 @@ Labels of the images are also saved in this directory
 ### Training Model file: 
 Directory:Google Drive:ML_FP_2022/image_classification/CL_ML_fp_MTL_HydraNet.ipynb
 
-So just run the 'CL_ML_fp_MTL_HydraNet.ipynb' file and the models are saved in Google Drive:ML_FP_2022/models/type
+Run the 'ML_fp_MTL_HydraNet.ipynb' file and the models are saved in Google Drive:ML_FP_2022/models/type
 
